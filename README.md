@@ -15,6 +15,11 @@
        - validation input
 </p>
 
+ <p>
+   and then has routing in file name api.php
+   file api.php has in directory web
+</p>
+
 
 ## E kantin suport
     <p>
